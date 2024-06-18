@@ -8,7 +8,7 @@ Original guide from [TheHybred](<https://www.reddit.com/r/MotionClarity/comments
 More in depth DLAA/DLSS modding and information from [emoose](<https://github.com/emoose/DLSSTweaks>).
 
 ## How It Works
-Replace DLSS files with the developer's version and toggle debug keyboard shortcuts.
+Replace DLSS files with a developer's version and toggle debug keyboard shortcuts.
 
 ## Requirements
 DLSS supported game.<br>
