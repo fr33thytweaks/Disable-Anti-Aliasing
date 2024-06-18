@@ -11,7 +11,7 @@ More in depth DLAA/DLSS modding and information from [emoose](<https://github.co
 Replace DLSS files with the developer's version and toggle debug keyboard shortcuts.
 
 ## Requirements
-DLSS supported game.
+DLSS supported game.<br>
 DLSS supported graphics card.
 
 ## What Is DLSS & DLAA
