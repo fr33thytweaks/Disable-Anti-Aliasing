@@ -11,16 +11,16 @@ More in depth DLAA/DLSS modding and information from [emoose](<https://github.co
 Replace DLSS files with a developer's version and toggle debug keyboard shortcuts.
 
 ## Requirements
-DLSS supported game.<br>
-DLSS supported graphics card.
+- DLSS supported game.<br>
+- DLSS supported graphics card.
 
 ## What Is DLSS & DLAA
 [NVIDIA](<https://developer.nvidia.com/rtx/streamline#:~:text=NVIDIA%20DLAA%20is%20an%20AI,higher%20levels%20of%20image%20quality.>)<br>
 [Wikipedia](<https://en.wikipedia.org/wiki/Deep_learning_super_sampling>)
 
 ## Standard Method
-Best suited for DLAA on in-game.<br>
-Can be used with DLSS (results in non-native resolution).
+- Best suited for DLAA on in-game
+- Can be used with DLSS (results in non-native resolution)
 
 1. Run "DLSS Indicator.reg"
 2. Copy and replace "nvngx_dlss.dll" in game folder
@@ -30,8 +30,8 @@ Can be used with DLSS (results in non-native resolution).
 6. Experiment with DLAA/DLSS sharpen in game graphic options if viable
 
 ## Advanced Method
-Best suited for DLSS on in-game.<br>
-Will be native resolution in all DLSS quality levels.
+- Best suited for DLSS on in-game
+- Will be native resolution in all DLSS quality levels
 
 1. Run "Signature Override.reg"
 2. Copy and replace "nvngx_dlss.dll" in game folder
@@ -57,7 +57,7 @@ To turn off the dev overlay text, run "Revert DLSS Indicator.reg" and edit "DLSS
 - OverrideDlssHud=-1
 - DisableDevWatermark=true
 
-## How To Revert
+## Revert
 1. Run "Revert DLSS Indicator.reg"
 2. Run "Revert Signature Override.reg"
 3. Delete "nvngx_dlss.dll", "DLSSTweaks.ini", "nvngx.dll" & "dlsstweaks.log" files in game folder
