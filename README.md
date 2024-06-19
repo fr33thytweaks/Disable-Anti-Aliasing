@@ -73,5 +73,6 @@ OBS game capture<br>
 ![image](https://github.com/fr33thytweaks/Disable-Anti-Aliasing/assets/168888348/1906d52f-5149-4dcd-9e4c-42e0bf9c67b6)
 
 ## Video
-add video link here <br>
-add video photo here
+[Video](<https://youtu.be/xxYU2BGDlpA>)
+
+[![Video](https://img.youtube.com/vi/xxYU2BGDlpA/maxresdefault.jpg)]([https://www.youtube.com/watch?v=xxYU2BGDlpA](https://youtu.be/xxYU2BGDlpA))
