@@ -67,6 +67,7 @@ To turn off the dev overlay text, run "Revert DLSS Indicator.reg" and edit "DLSS
 1080p low<br>
 7800x3d 4090<br>
 OBS game capture<br>
+
 ![image](https://github.com/fr33thytweaks/Disable-Anti-Aliasing/assets/168888348/044d2417-d410-49f2-a099-442c679efaf5)
 
 ![image](https://github.com/fr33thytweaks/Disable-Anti-Aliasing/assets/168888348/1906d52f-5149-4dcd-9e4c-42e0bf9c67b6)
