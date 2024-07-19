@@ -60,13 +60,18 @@ To turn off the dev overlay text, run "Revert DLSS Indicator.reg" and edit "DLSS
 5. Run "Force DLAA.ps1" use default option
 
 ## Benchmarks
-1080p low<br>
+COD 1080p low<br>
+2042 1080p/4k low<br>
 7800x3d 4090<br>
 OBS game capture<br>
 
 ![image](https://github.com/fr33thytweaks/Disable-Anti-Aliasing/assets/168888348/044d2417-d410-49f2-a099-442c679efaf5)
 
-![image](https://github.com/fr33thytweaks/Disable-Anti-Aliasing/assets/168888348/1906d52f-5149-4dcd-9e4c-42e0bf9c67b6)
+![Picture1](https://github.com/user-attachments/assets/bf004ca6-2f5a-431a-a811-36419aa819a7)
+
+![Picture2](https://github.com/user-attachments/assets/00d8ce9f-9adf-42c3-b2cc-fc82ea950ce5)
+
+<img width="493" alt="TAA VS NO TAA" src="https://github.com/user-attachments/assets/d03c8ee8-9650-423d-b8bb-2e9758fdd068">
 
 ## Video
 [Video](<https://youtu.be/xxYU2BGDlpA>)
